@@ -1,7 +1,9 @@
 # magento2-module-alipay
 Alipay payment gateway for magento2 
 
-Module has been upgraded from magento1, now accept your suggestions and feature requests!
+Module has been upgraded from magento 1. We would release it to public soon.
+
+Now accept your suggestions and feature requests!
 
 Please email us:  opensource@cosmocommerce.com or sales@cosmocommerce.com.
 
